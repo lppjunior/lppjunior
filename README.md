@@ -1,5 +1,3 @@
-# Luiz Paulo
-
 ### Arquiteto de software fullstack com 22 anos de experiência em desenvolvimento de software, liderança de equipe, treinamento.
 
 ----
